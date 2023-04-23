@@ -1,11 +1,14 @@
 # TeslaProject
 
-This is my first clone coding
-It's the first and the main page of tesla. 
-I didn't add anything yet. So this doesn't have a dynamic operations.
+### This is my first clone coding
+>- JS, Css & HTML
+<br>
+>- It's the first and the main page of tesla. 
+>- I didn't add anything yet. So this doesn't have a dynamic operations.
 
+<br><br>
+#### Problem
+>- I got a problem here, when I checked in my index.html the page was working as I wanted.
+>- Since I got home, the scroll.js part hasn't been working. 
+>- I've been checking all day but I haven't been able to fix it.
 
-
-I got a problem here, when I checked in my index.html the page was working as I wanted.
-But since when I got home, the scroll.js part seems not working.... T^T I've been checking 
-all the day but can't fixed.,...
